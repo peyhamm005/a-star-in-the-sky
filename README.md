@@ -1,4 +1,4 @@
-# A Star in the Sky
+# A Star in the Sky 🌠
 Catch the shooting star to progress the ranks!
 
 # Download instructions
